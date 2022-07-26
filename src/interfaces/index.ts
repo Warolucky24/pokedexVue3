@@ -1,0 +1,1 @@
+import type {Pokemon} from "@/interfaces/pokemon";
